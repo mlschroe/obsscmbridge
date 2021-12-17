@@ -1,0 +1,6 @@
+<package>
+  <title>The screen package from salsa.debian.org</title>
+  <description>The screen package from salsa.debian.org
+</description>
+  <scmsync>https://salsa.debian.org/debian/screen.git</scmsync>
+</package>
